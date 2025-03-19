@@ -1,0 +1,59 @@
+
+#london{
+    border: 0px solid;
+    width: 400px;
+    height: 100px;
+    font-size: 80px;
+    font-family:"Stardos Stencil";
+    background-color:white;
+    opacity: 50%;
+    top: 50px;
+    margin-left: 40%;
+    border-radius: 12px;
+    
+    
+
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#body{
+    margin-top: 50px;
+    margin-left:100px;
+    margin-right: 10px;
+    width: 1500px;
+    height: 400px;
+    background-color: white;
+    border-radius: 12px;
+    opacity: 50%;   
+}
+#home{
+    margin-top: 50px;
+font-size: xx-large
+}
+#nv ul{
+    list-style: none;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    opacity: 50%;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+#nv a{
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    display:inline-block;
+    text-align: center;
+    font-size: xx-large;
+}
+#nv a:hover{
+    background-color: gray;
+}
+#nv li{
+    float: left;
+}
